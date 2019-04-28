@@ -4,7 +4,7 @@ This is our unofficial git mirror of the source found at the [official site](htt
 
 ## Installation
 
-    git clone git@github.com:zyamusic/sinsy.git
+    git clone git@github.com:thomasjwebb/sinsy.git
 
 Now change into the sinsy directory and get its submodules
 
